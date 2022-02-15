@@ -1,10 +1,10 @@
-# anki-analysis
+# Anki analysis
 
-links:
+I use spaced repetition to study. Here are some notebooks where I unpack the SQLite database of each card review.
 
-- https://github.com/ankidroid/Anki-Android/wiki/Database-Structure
-- https://genedan.com/no-126-four-years-of-spaced-repetition/
+A big thanks to the team at [Anki](https://apps.ankiweb.net/) for their great product and [documentation](https://github.com/ankidroid/Anki-Android/wiki/Database-Structure).
 
-converting unix timestamps:
+Other tools used:
 
-https://docs.python.org/3/library/time.html
+- SQLite
+- Python: time, pandas, matplotlib
